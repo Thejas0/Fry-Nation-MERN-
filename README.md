@@ -10,7 +10,7 @@ food delivery app built using MERN stack technology
 
 3. User Registration page
 
-![WhatsApp Image 2022-12-01 at 16 27 51](https://user-images.githubusercontent.com/97007096/208437216-b2841788-77a6-4256-b8c7-d146f9e947d1.jpg)
+![WhatsApp Image 2022-12-01 at 16 27 34](https://user-images.githubusercontent.com/97007096/208437194-3545f216-0d7b-415c-928d-aa9e999168d7.jpg)
 
 4. User Login Page 
 
